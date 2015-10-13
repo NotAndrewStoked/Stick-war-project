@@ -29,40 +29,40 @@
         <sprite>sprites\spr_duck_16</sprite>
         <sprite>sprites\spr_wall_32</sprite>
         <sprite>sprites\spr_supa_stick_33</sprite>
-        <sprite>sprites\34 Giant</sprite>
-        <sprite>sprites\35 T-Rex</sprite>
-        <sprite>sprites\36 Balance</sprite>
-        <sprite>sprites\37 Range</sprite>
-        <sprite>sprites\38 Attack</sprite>
-        <sprite>sprites\39 Speed</sprite>
-        <sprite>sprites\40 Health</sprite>
-        <sprite>sprites\41 Band-Aid Man</sprite>
-        <sprite>sprites\42 Screamin' Cow</sprite>
-        <sprite>sprites\43 Pickley Ruff</sprite>
-        <sprite>sprites\44 Mr.Cactus</sprite>
-        <sprite>sprites\45 Butler</sprite>
-        <sprite>sprites\46 Angry Triangle</sprite>
-        <sprite>sprites\47 Mob Boss</sprite>
-        <sprite>sprites\48 Zombie</sprite>
-        <sprite>sprites\50 Robey</sprite>
+        <sprite>sprites\spr_giant_34</sprite>
+        <sprite>sprites\spr_trex_35</sprite>
+        <sprite>sprites\spr_balance_36</sprite>
+        <sprite>sprites\spr_range_37</sprite>
+        <sprite>sprites\spr_attack_38</sprite>
+        <sprite>sprites\spr_speed_39</sprite>
+        <sprite>sprites\spr_health_40</sprite>
+        <sprite>sprites\spr_band_aid_man_41</sprite>
+        <sprite>sprites\spr_screamin_cow_42</sprite>
+        <sprite>sprites\spr_pickley_ruff_43</sprite>
+        <sprite>sprites\spr_mr_cactus_44</sprite>
+        <sprite>sprites\spr_butler_45</sprite>
+        <sprite>sprites\spr_angry_triangle_46</sprite>
+        <sprite>sprites\spr_mob_boss_47</sprite>
+        <sprite>sprites\spr_zombie_48</sprite>
+        <sprite>sprites\spr_robey_50</sprite>
       </sprites>
       <sprites name="Item Cards">
-        <sprite>sprites\17 Light Potion</sprite>
-        <sprite>sprites\18 Heavy Potion</sprite>
-        <sprite>sprites\19 Hp Potion</sprite>
-        <sprite>sprites\20 Sword</sprite>
-        <sprite>sprites\21 Bow</sprite>
-        <sprite>sprites\22 Water Bottle</sprite>
-        <sprite>sprites\23 Mine</sprite>
-        <sprite>sprites\24 Soda</sprite>
-        <sprite>sprites\25 Magic</sprite>
-        <sprite>sprites\26 Dark Magic</sprite>
-        <sprite>sprites\27 Detonator</sprite>
-        <sprite>sprites\28 Spell Book</sprite>
-        <sprite>sprites\29 Dark Spell Book</sprite>
-        <sprite>sprites\30 Necro Book</sprite>
-        <sprite>sprites\31 Revival Gem</sprite>
-        <sprite>sprites\49 Horse</sprite>
+        <sprite>sprites\spr_light_potion_17</sprite>
+        <sprite>sprites\spr_heavy_potion_18</sprite>
+        <sprite>sprites\spr_hp_potion_19</sprite>
+        <sprite>sprites\spr_sword_20</sprite>
+        <sprite>sprites\spr_bow_21</sprite>
+        <sprite>sprites\spr_watter_bottle_22</sprite>
+        <sprite>sprites\spr_mine_23</sprite>
+        <sprite>sprites\spr_soda_24</sprite>
+        <sprite>sprites\spr_magic_25</sprite>
+        <sprite>sprites\spr_dark_magic_26</sprite>
+        <sprite>sprites\spr_detonator_27</sprite>
+        <sprite>sprites\spr_spellbook_28</sprite>
+        <sprite>sprites\spr_dark_spellbook_29</sprite>
+        <sprite>sprites\spr_necro_book_30</sprite>
+        <sprite>sprites\spr_revival_gem_31</sprite>
+        <sprite>sprites\spr_horse_49</sprite>
       </sprites>
     </sprites>
     <sprites name="Series two">
