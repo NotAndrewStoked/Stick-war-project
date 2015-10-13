@@ -67,38 +67,38 @@
     </sprites>
     <sprites name="Series two">
       <sprites name="Character Cards">
-        <sprite>sprites\51 Laser Head</sprite>
-        <sprite>sprites\52 Spartan</sprite>
-        <sprite>sprites\53 Zeus</sprite>
-        <sprite>sprites\54 Hera</sprite>
-        <sprite>sprites\55 Athena</sprite>
-        <sprite>sprites\56 Poseidon</sprite>
-        <sprite>sprites\59 Speed Demon</sprite>
-        <sprite>sprites\66 Mr.Squidy</sprite>
-        <sprite>sprites\71 Disco Boy</sprite>
-        <sprite>sprites\72 Hades</sprite>
-        <sprite>sprites\73 Achilles</sprite>
-        <sprite>sprites\74 Farmer</sprite>
-        <sprite>sprites\79 Dark Witch</sprite>
-        <sprite>sprites\80 Dark Wizard</sprite>
+        <sprite>sprites\spr_laser_head_51</sprite>
+        <sprite>sprites\spr_spartan_52</sprite>
+        <sprite>sprites\spr_zeus_53</sprite>
+        <sprite>sprites\spr_hera_54</sprite>
+        <sprite>sprites\spr_athena_55</sprite>
+        <sprite>sprites\spr_posiedon_56</sprite>
+        <sprite>sprites\spr_speed_demon_59</sprite>
+        <sprite>sprites\spr_mrsquidy_66</sprite>
+        <sprite>sprites\spr_discoboy_71</sprite>
+        <sprite>sprites\spr_hades_72</sprite>
+        <sprite>sprites\spr_achilles_73</sprite>
+        <sprite>sprites\spr_farmer_74</sprite>
+        <sprite>sprites\spr_dark_witch_75</sprite>
+        <sprite>sprites\spr_dark_wizard_76</sprite>
       </sprites>
       <sprites name="Item Cards">
-        <sprite>sprites\57 Bow Tie</sprite>
-        <sprite>sprites\58 Signal Jammer</sprite>
-        <sprite>sprites\60 Instant Boss</sprite>
-        <sprite>sprites\61 Hot Sauce</sprite>
-        <sprite>sprites\62 Axe</sprite>
-        <sprite>sprites\63 Glass Bottle</sprite>
-        <sprite>sprites\64 Knife</sprite>
-        <sprite>sprites\65 Sugar Cube</sprite>
-        <sprite>sprites\67 Sheild</sprite>
-        <sprite>sprites\68 Shocky Gloves</sprite>
-        <sprite>sprites\69 Tazer</sprite>
-        <sprite>sprites\70 Batteries</sprite>
-        <sprite>sprites\75 Boots</sprite>
-        <sprite>sprites\76 Helmet</sprite>
-        <sprite>sprites\77 Grappling Hook</sprite>
-        <sprite>sprites\78 Smoke Bomb</sprite>
+        <sprite>sprites\spr_bow_tie_57</sprite>
+        <sprite>sprites\spr_signal_jammer_58</sprite>
+        <sprite>sprites\spr_instant_boss_60</sprite>
+        <sprite>sprites\spr_hot_sauce_61</sprite>
+        <sprite>sprites\spr_axe_62</sprite>
+        <sprite>sprites\spr_glass_bottle_63</sprite>
+        <sprite>sprites\spr_knife_64</sprite>
+        <sprite>sprites\spr_sugar_cube_65</sprite>
+        <sprite>sprites\spr_sheild_67</sprite>
+        <sprite>sprites\spr_shocky_gloves_68</sprite>
+        <sprite>sprites\spr_tazer_69</sprite>
+        <sprite>sprites\spr_batteries_74</sprite>
+        <sprite>sprites\spr_boots_75</sprite>
+        <sprite>sprites\spr_helmet_76</sprite>
+        <sprite>sprites\spr_grappling_hook_77</sprite>
+        <sprite>sprites\spr_smoke_bomb_78</sprite>
       </sprites>
     </sprites>
     <sprites name="Buttons">
