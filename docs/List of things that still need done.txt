@@ -1,0 +1,10 @@
+1. Put a description of the game in the readme.txt file so it will appear on github
+
+2. Add a database of each card and its "type" in the controller
+
+3. Add a card hand/inventory system
+
+4. Replace "text" sprites (like the credits one) with displayed text
+
+5. Make the online button tell people this feature isn't here yet
+
