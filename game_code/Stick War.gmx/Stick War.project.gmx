@@ -5,7 +5,7 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound">
-    <sound>sound\Page turn</sound>
+    <sound>sound\snd_page_turn</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_stick_war_title</sprite>
@@ -102,46 +102,46 @@
       </sprites>
     </sprites>
     <sprites name="Buttons">
-      <sprite>sprites\Online</sprite>
-      <sprite>sprites\Offline</sprite>
-      <sprite>sprites\Store</sprite>
-      <sprite>sprites\Customize Deck</sprite>
-      <sprite>sprites\Game Credits</sprite>
-      <sprite>sprites\Credits</sprite>
-      <sprite>sprites\Main Menu</sprite>
+      <sprite>sprites\spr_button_online</sprite>
+      <sprite>sprites\spr_button_offline</sprite>
+      <sprite>sprites\spr_button_store</sprite>
+      <sprite>sprites\spr_button_customize_deck</sprite>
+      <sprite>sprites\spr_button_game_credits</sprite>
+      <sprite>sprites\spr_game_credits</sprite>
+      <sprite>sprites\spr_main_menu</sprite>
     </sprites>
-    <sprite>sprites\Curser</sprite>
+    <sprite>sprites\spr_cursor</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\Main Menu Background</background>
-    <background>background\Offline</background>
+    <background>background\bac_card_sheet</background>
+    <background>background\bac_offline</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <objects name="Buttons">
-      <object>objects\Online</object>
-      <object>objects\Offline</object>
-      <object>objects\Store</object>
-      <object>objects\Customize Deck</object>
-      <object>objects\Game Credits</object>
-      <object>objects\Main Menu</object>
-      <object>objects\Credits</object>
+      <object>objects\obj_button_online</object>
+      <object>objects\obj_button_offline</object>
+      <object>objects\obj_button_store</object>
+      <object>objects\obj_button_customize_deck</object>
+      <object>objects\obj_button_game_credits</object>
+      <object>objects\obj_button_main_menu</object>
+      <object>objects\obj_display_game_credits</object>
     </objects>
     <objects name="Character Cards">
       <objects name="S1">
-        <object>objects\Agent</object>
+        <object>objects\obj_agent</object>
       </objects>
     </objects>
     <objects name="Controllers">
       <object>objects\obj_controller</object>
       <object>objects\obj_game_controller</object>
     </objects>
-    <object>objects\Curser</object>
+    <object>objects\obj_cursor</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\Main Menu</room>
-    <room>rooms\Credits</room>
-    <room>rooms\offline_testing</room>
+    <room>rooms\rm_main_menu</room>
+    <room>rooms\rm_credits</room>
+    <room>rooms\rm_offline_testing</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

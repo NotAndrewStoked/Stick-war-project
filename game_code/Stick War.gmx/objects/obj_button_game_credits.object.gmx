@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>Credits</room>
+            <room>rm_credits</room>
           </argument>
         </arguments>
       </action>
@@ -45,7 +45,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>Page turn</sound>
+            <sound>snd_page_turn</sound>
           </argument>
           <argument>
             <kind>3</kind>
